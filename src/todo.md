@@ -1,4 +1,3 @@
-Ahead of the pack
 Back to square on
 Ballpark number/figure
 By the book
@@ -11,7 +10,6 @@ Go down the drain
 Go the extra mile
 Hands are tied
 In a nutshell
-In full swing
 In the driver’s seat
 Keep one’s eye on the ball
 Learn the ropes
@@ -24,7 +22,6 @@ Out in the open
 Put all one’s eggs in one basket
 Put the cart before the horse
 Raise the bar
-Red tape
 Rock the boat
 Safe bet
 Same boat
@@ -34,13 +31,11 @@ Sever ties
 Shoot something down
 Smooth sailing
 Stand one’s ground
-Take the bull by the horns
 Talk someone into something
 Talk someone out of something
 The elephant in the room
 Think outside the box
 Time’s up
-Touch base
 Twist someone’s arm
 Up in the air
 Uphill battle

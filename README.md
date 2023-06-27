@@ -4,17 +4,19 @@ Business Lingo Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-Edited by Joel Parker Henderson:<br>
-<https://github.com/joelparkerhenderson>
+Download the [free e-book](business-lingo-primer.pdf)
 
-The e-book PDF file is here:<br>
-[business-lingo-primer.pdf](business-lingo-primer.pdf)
+You can [pay what you want](https://gumroad.com/l/business-lingo-primer)
 
-Also available pay-what-you-want:<br>
-<https://gumroad.com/l/business-lingo-primer>
+Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
 
-Questions and feedback:<br>
-[joel@joelparkerhenderson.com](mailto:joel@joelparkerhenderson.com)
+For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
+
+Related primers:
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [Project Management Primer](https://github.com/sixarm/project-management-lingo-primer)
+* [UI/UX Primer](https://github.com/sixarm/ui-ux-primer)
 
 ## Contents
 
