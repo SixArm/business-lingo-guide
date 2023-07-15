@@ -19,6 +19,7 @@
 * [Put a pin in it](put-a-pin-in-it)
 * [Quick wins](quick-wins)
 * [Red tape](red-tape)
+* [Shoulder to shoulder](shoulder-to-shoulder)
 * [Skin in the game](skin-in-the-game)
 * [Stretch goal](stretch-goal)
 * [Swoop and poop](swoop-and-poop)
@@ -55,12 +56,15 @@
 * [A startup is a company that is confused](a-startup-is-a-company-that-is-confused)
 * [Move fast and break things](move-fast-and-break-things)
 * [Ideas are easy, implementation is hard](ideas-are-easy-implementation-is-hard)
+* [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
+* [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
+
+### [UI/UX quotations](ui-ux-quotations)
+
 * [Learn early, learn often](learn-early-learn-often)
 * [Make mistakes faster](make-mistakes-faster)
 * [Perfect is the enemy of good](perfect-is-the-enemy-of-good)
 * [Data beats emotions](data-beats-emotions)
-* [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
-* [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
 
 ### [Conclusion](business-lingo-primer-conclusion)
 
