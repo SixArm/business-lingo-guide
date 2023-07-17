@@ -1,5 +1,24 @@
 ### [Introduction](business-lingo-primer-introduction)
 
+### [Business analysis](business-analysis)
+
+* [2x2 grid for business](2x2-grid-for-business)
+* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
+* [Business Model Canvas (BMC)](business-model-canvas)
+* [Cause-and-effect diagram (a.k.a fishbone diagram)](cause-and-effect-diagram)
+* [Eisenhower decision matrix](eisenhower-decision-matrix)
+* [Five Whys analysis](five-whys-analysis)
+* [Flowchart](flowchart)
+* [Futurespective](futurespective)
+* [Gantt chart](gantt-chart)
+* [Good Enough For Now (GEFN)](good-enough-for-now)
+* [Growth-share matrix (a.k.a. BGG matrix)](growth-share-matrix)
+* [Mind map](mind-map)
+* [Organizational chart](organizational-chart)
+* [SWOT analysis](swot-analysis)
+* [Thinking hats](thinking-hats)
+* [Venn diagram](venn-diagram)
+
 ### [Idioms](idioms)
 
 * [Ahead of the pack](ahead-of-the-pack)
@@ -17,6 +36,7 @@
 * [Out of scope](out-of-scope)
 * [Over the horizon](over-the-horizon)
 * [Put a pin in it](put-a-pin-in-it)
+* [Putting the cart before the horse](putting-the-cart-before-the-horse)
 * [Quick wins](quick-wins)
 * [Red tape](red-tape)
 * [Shoulder to shoulder](shoulder-to-shoulder)
@@ -30,6 +50,7 @@
 * [Touch base](touch-base)
 * [Unknown unknowns](unknown-unknowns)
 * [Win-win](win-win)
+* [Winner take all](winner-take-all)
 
 ### [Aphorisms](aphorisms)
 
@@ -47,24 +68,42 @@
 * [The Principle of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 * [Chesterton's fence](chestertons-fence)
 * [The Tragedy of the Commons](the-tragedy-of-the-commons)
-
+* [Sunk cost fallacy](sunk-cost-fallacy)
+  
 ### [Entrepreneur quotations](entrepreneur-quotations)
 
-* [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
 * [Culture eats strategy for breakfast](culture-eats-strategy-for-breakfast)
 * [Execution eats strategy for lunch](execution-eats-strategy-for-lunch)
 * [A startup is a company that is confused](a-startup-is-a-company-that-is-confused)
-* [Move fast and break things](move-fast-and-break-things)
-* [Ideas are easy, implementation is hard](ideas-are-easy-implementation-is-hard)
+
+### [Innovation quotations](innovation-quotations)
+
+* [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
 * [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
 * [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
 
-### [UI/UX quotations](ui-ux-quotations)
+### [UI/UX design quotations](ui-ux-design-quotations)
 
 * [Learn early, learn often](learn-early-learn-often)
 * [Make mistakes faster](make-mistakes-faster)
 * [Perfect is the enemy of good](perfect-is-the-enemy-of-good)
+
+### [Project management quotations](project-management-quotations)
+
+* [Move fast and break things](move-fast-and-break-things)
+* [Ideas are easy, implementation is hard](ideas-are-easy-implementation-is-hard)
 * [Data beats emotions](data-beats-emotions)
+
+### [Soft skills](soft-skills)
+
+* [How to ask for help](how-to-ask-for-help)
+* [How to collaborate](how-to-collaborate)
+* [How to find a mentor](how-to-find-a-mentor)
+* [How to influence people](how-to-influence-people)
+* [How to manage expectations](how-to-manage-expectations)
+* [How to work with stakeholders](how-to-work-with-stakeholders)
+* [How to get feedback](how-to-get-feedback)
+* [How to give feedback](how-to-give-feedback)
 
 ### [Conclusion](business-lingo-primer-conclusion)
 
