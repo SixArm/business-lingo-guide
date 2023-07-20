@@ -47,6 +47,8 @@ request for comments (RFC)
 work in progress (WIP)
 Five-Nines
 
+GE-McKinsey Nine-Box Matrix, Ansoff Matrix, VRIO Analysis.
+
 GE-McKinsey Nine-Box Matrix. This strategy tool helps business portfolio planning. Multi-business corporations use it to evaluate their individual business units and prioritize investments among them systematically. In the matrix, the y-axis represents the market/ industry attractiveness, and the x-axis shows the strength of the business unit. The scale is high, medium and low. It generates nine industry attractiveness measures and twelve business strengths measures.  
 
 Ansoff Matrix. Businesses use the Ansoff matrix to analyze and plan strategies for growth and understand associated risks. According to the matrix, there are two approaches to building a growth strategy; By varying what is sold (product growth);    By varying who it is sold to (market growth).
@@ -78,6 +80,13 @@ How to bid on a contract
 How to apply for a loan
 How to write a request for proposal
 How to respond to a request for proposal
+How to manage stress
+How to manage conflict
+How to give a presentation
+How to research
+How to write documentation
+How to host a meetup
+
 
 
 "It's a marathon, not a sprint"
