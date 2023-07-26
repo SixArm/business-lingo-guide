@@ -1,4 +1,4 @@
-### [Introduction](business-lingo-primer-introduction)
+### [Introduction](business-lingo-guide-introduction)
 
 ### [Business analysis](business-analysis)
 
@@ -102,10 +102,14 @@
 * [How to influence people](how-to-influence-people)
 * [How to manage expectations](how-to-manage-expectations)
 * [How to work with stakeholders](how-to-work-with-stakeholders)
+* [How to lead a meeting](how-to-lead-a-meeting)
+* [How to give a demo](how-to-give-a-demo)
+* [How to manage up](how-to-manage-up)
+* [How to negotiate](how-to-negotiate)
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-### [Conclusion](business-lingo-primer-conclusion)
+### [Conclusion](business-lingo-guide-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)

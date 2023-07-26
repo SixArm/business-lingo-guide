@@ -1,36 +1,50 @@
 <!--
-* browser: business-lingo-primer
+* browser: business-lingo-guide
 * tracker: d3f018d32305ea599dc4b9e6f132e495
-* version: 0.5.0
-* updated: 2023-07-15T21:49:30Z
+* version: 1.0.0
+* updated: 2023-07-26T10:54:04Z
 * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * options: commentable
 -->
 
-# Business Lingo Primer
+# Business Lingo Guide
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Business Lingo Primer: Idioms, Phrases, Buzzwords.
+Business Lingo Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-This is a glossary guide e-book, with one topic per page. 
-
-Download the [free e-book](business-lingo-primer.pdf)
-
-You can [pay what you want](https://gumroad.com/l/business-lingo-primer)
-
-Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
-
-For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
+* Download the [free ebook](business-lingo-guide.pdf)
+* You can [pay what you want](https://gumroad.com/l/business-lingo-guide)
+* Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
+* For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
 
 ## Contents
 
 Introduction
 
-* What is this book?
-* Who is this for?
-* Why am I creating this?
-* Are there more primers?
+  * What is this book?
+  * Who is this for?
+  * Why am I creating this?
+  * Are there more guides?
+
+Business analysis
+
+* 2x2 grid for business
+* Big Hairy Audacious Goal (BHAG)
+* Business Model Canvas (BMC)
+* Cause-and-effect diagram (a.k.a fishbone diagram)
+* Eisenhower decision matrix
+* Five Whys analysis
+* Flowchart
+* Futurespective
+* Gantt chart
+* Good Enough For Now (GEFN)
+* Growth-share matrix (a.k.a. BGG matrix)
+* Mind map
+* Organizational chart
+* SWOT analysis
+* Thinking hats
+* Venn diagram
 
 Idioms
 
@@ -49,8 +63,10 @@ Idioms
 * Out of scope
 * Over the horizon
 * Put a pin in it
+* Putting the cart before the horse
 * Quick wins
 * Red tape
+* Shoulder to shoulder
 * Skin in the game
 * Stretch goal
 * Swoop and poop
@@ -61,6 +77,7 @@ Idioms
 * Touch base
 * Unknown unknowns
 * Win-win
+* Winner take all
 
 Aphorisms
 
@@ -78,37 +95,62 @@ Aphorisms
 * The Principle of Least Knowledge (The Law of Demeter)
 * Chesterton's fence
 * The Tragedy of the Commons
+* Sunk cost fallacy
 
 Entrepreneur quotations
 
-* A rising tide lifts all boats
 * Culture eats strategy for breakfast
 * Execution eats strategy for lunch
 * A startup is a company that is confused
-* Move fast and break things
-* Ideas are easy, implementation is hard
+
+Innovation quotations
+
+* A rising tide lifts all boats
+* Look for the people who want to change the world
+* See things in the present, even if they are in the future
+
+UI/UX design quotations
+
 * Learn early, learn often
 * Make mistakes faster
 * Perfect is the enemy of good
+
+Project management quotations
+
+* Move fast and break things
+* Ideas are easy, implementation is hard
 * Data beats emotions
-* Look for the people who want to change the world
-* See things in the present, even if they are in the future
+
+Soft skills
+
+* How to ask for help
+* How to collaborate
+* How to find a mentor
+* How to influence people
+* How to manage expectations
+* How to work with stakeholders
+* How to lead a meeting
+* How to give a demo
+* How to manage up
+* How to negotiate
+* How to get feedback
+* How to give feedback
 
 Conclusion
 
 * About the editor
 * About the AI
 * About the ebook
-* About related projects
 
-## All our primers
 
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+## All our guides
 
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
 
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
 
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
+
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
