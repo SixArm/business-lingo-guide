@@ -3,12 +3,18 @@ title: "Business Lingo Guide"
 subtitle: "Idioms • Phrases • Buzzwords"
 author: "Edited by Joel Parker Henderson"
 date: "Version 1.0.0"
+description: > 
+  Topics for workplace teamwork, such as analysis tools like the 2x2 grid,
+  aphorisms like the Pareto Principle, idioms like "Get on the front foot",
+  quotations like "Make mistakes faster", and soft skills like how to
+  collaborate.
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-logo: "files/logo.png"
+cover-image: "../../README.jpg"
+logo: "../README.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:
@@ -25,5 +31,5 @@ footer-left: "© Joel Parker Henderson"
 footer-center: "License: CC-BY-NC-SA-4.0"
 footer-right:
 subparagraph: true
-lang: en-US
+lang: "en-US"
 ---
