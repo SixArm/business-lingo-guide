@@ -2,7 +2,9 @@ Back to square on
 Ballpark number/figure
 By the book
 Cut-throat
+Don't make me think
 Easy come, easy go
+Eyes on the prize
 Game plan
 Get down to business
 Get something off the ground
@@ -15,24 +17,31 @@ Keep one’s eye on the ball
 Learn the ropes
 Long shot
 No-brainer
+No pain, no gain
 No strings attached
 Not going to fly
 On the same page
 Out in the open
 Put all one’s eggs in one basket
+Quid pro quo
 Raise the bar
 Rock the boat
 Safe bet
 Same boat
+Secret sauce
 See eye to eye
 See something through
 Sever ties
 Shoot something down
 Smooth sailing
-Stand one’s ground
+Stand your ground
+Sweat equity
+Take my money
 Talk someone into something
 Talk someone out of something
+The cat is out of the bag
 The elephant in the room
+The horse has left the barn
 Think outside the box
 Time’s up
 Twist someone’s arm
