@@ -4,7 +4,7 @@ The sunk cost fallacy occurs when individuals or organizations continue to inves
 
 Sunk cost refers to the costs that have already been incurred and cannot be recovered, regardless of future actions or decisions. These costs are essentially in the past and should not be considered when making current or future decisions. The concept of sunk cost is important in various fields, including economics, business, and decision-making.
 
-Key points…
+**Key aspects:**
 
 Past Decisions: Sunk costs are a result of past decisions or actions, such as money spent on a failed project, equipment purchased for an abandoned venture, or training expenses for an employee who has left the company.
 

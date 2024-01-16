@@ -1,11 +1,19 @@
 title: Business Lingo Guide
 subtitle: 100+ Concepts and Terms for Working and Communicating
-edition: 20231015
+edition: 20240101
 summary: > 
   Topics for workplace teamwork, such as analysis tools like the 2x2 grid,
   aphorisms like the Pareto Principle, idioms like "Get on the front foot",
   quotations like "Make mistakes faster", and soft skills like how to
   collaborate.
+  
+  The book explains one topic per page, akin to a big glossary of terminology, or collection of introductory wiki pages, or an encyclopedia collection of summary notes.
+bio: >
+  Joel Parker Henderson is a global 
+  technology consultant, programmer, 
+  open source leader, and book editor.
+  To learn more and to connect online:
+  https://linktr.ee/joelparkerhenderson
 categories:
   - Kindle Books / Business & Money / Business Life / General ↗|Remove
   - Kindle Books / Business & Money / Skills / Communications ↗|Remove
@@ -18,3 +26,12 @@ keywords:
   - idioms
   - conversations
   - cross-cultural communications
+isbn: ""
+paperback:
+  dimensions: 8x10 inch
+  finish: glossy
+  cover:
+    spine:
+      font: Open Sans 14pt
+      title-align: left
+      author-align: right

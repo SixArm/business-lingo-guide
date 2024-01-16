@@ -7,7 +7,7 @@ The Growth-Share Matrix, also known as the Boston Consulting Group (BCG) matrix,
 | High Growth | Stars      | Questions |
 | Low Growth  | Cash Cows  | Dogs      |
 
-Stars = High market growth rate and high relative market share. Businesses typically allocate subtantial resources to support and develop stars, to increase growth and share, with the goal of turning them into cash cows in the future.
+Stars = High market growth rate and high relative market share. Businesses typically allocate substantial resources to support and develop stars, to increase growth and share, with the goal of turning them into cash cows in the future.
 
 Cash Cows = Low market growth rate and high relative market share. Cash cows require relatively low investment and are considered a source of funds for investing in other products or businesses.
 
