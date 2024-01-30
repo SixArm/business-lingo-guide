@@ -17,7 +17,6 @@ Business Lingo Guide: this book explains one topic per page, like a big glossary
   [Free EPUB](https://github.com/SixArm/business-lingo-guide/raw/main/business-lingo-guide.epub), 
   [Free PDF](https://github.com/SixArm/business-lingo-guide/raw/main/business-lingo-guide.pdf),
   [Gumroad](https://gumroad.com/l/business-lingo-guide),
-  [Zylvie](https://zylvie.com/joelparkerhenderson/p/business-lingo-guide),
   [Kindle](https://www.amazon.com/dp/B0CPBKMCMY), 
   [Paperback](https://www.amazon.com/dp/TODO).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
