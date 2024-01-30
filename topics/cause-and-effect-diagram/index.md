@@ -4,7 +4,7 @@ A cause-and-effect diagram, also known as an Ishikawa diagram or fishbone diagra
 
 A cause-and-effect diagram is a structured tool that helps identify possible causes of a particular problem or event. It is based on the idea that there are multiple factors that contribute to a problem, and that by identifying and addressing these factors, the problem can be solved.
 
-There are six main categories of causes known as "6 Ms":
+**Key cause categories:**
 
 * **Manpower** (people)
 

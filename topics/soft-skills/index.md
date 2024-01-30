@@ -2,8 +2,6 @@
 
 Soft skills, also known as interpersonal skills or people skills, refer to the personal attributes and qualities that enable individuals to effectively interact with others and navigate various social and professional situations.
 
-**Important soft skills:**
-
 * **Communication:** The ability to articulate ideas, thoughts, and information effectively, both verbally and in writing. This involves active listening, clarity, empathy, and adaptability.
 
 * **Collaboration:** The capacity to work well with others, contribute to a team, and build positive relationships. Collaboration entails cooperation, compromise, and constructive conflict handling.

@@ -2,7 +2,7 @@
 
 The Business Model Canvas (BMC) is a visual tool that helps entrepreneurs and businesses to describe, design, and analyze their business model.
 
-The BMC hels entrepreneurs identify the most important components of their business model and how they are interrelated. This guides decisions about resources, offerings, customers, and growth. The BMC is also useful for analyzing competitors' business models, to identify areas where a business can differentiate. 
+The BMC hels entrepreneurs identify the most important components of their business model and how they are interrelated. This guides decisions about resources, offerings, customers, and growth. The BMC is also useful for analyzing competitors' business models, to identify areas where a business can differentiate.
 
 **Key areas:**
 
