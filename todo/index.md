@@ -3,6 +3,7 @@ Ballpark number/figure
 By the book
 Cut-throat
 Don't make me think
+Don't sign under a chandelier
 Easy come, easy go
 Eyes on the prize
 Game plan
